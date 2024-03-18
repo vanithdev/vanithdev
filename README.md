@@ -6,7 +6,11 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning React.js Frontend Library.</h3>
+<h3 align="left">📚 I'm currently learning React.js Frontend Library.<br>🎯 I'm looking for Frontend Web Developer role<br></h3>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
